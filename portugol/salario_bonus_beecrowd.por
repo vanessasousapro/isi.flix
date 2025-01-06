@@ -1,18 +1,18 @@
-/*Exercício BEECROWD 1019
-Faça um programa que leia o nome de um vendedor, o seu salário fixo e o total de 
-vendas efetuadas por ele no mês (em dinheiro). Sabendo que este vendedor ganha 15%
-de comissão sobre suas vendas efetuadas, informar o total a receber no final do mês.*/
+/*Exercicio BEECROWD 1019
+Faca um programa que leia o nome de um vendedor, o seu salario fixo e o total de 
+vendas efetuadas por ele no mes (em dinheiro). Sabendo que este vendedor ganha 15%
+de comissao sobre suas vendas efetuadas, informar o total a receber no final do mes.*/
 /*
 ENTRADAS:
-nome do funcionário
-salário base
+nome do funcionario
+salario base
 total de vendas
 
 PROCESSAMENTO:
-salário líquido = salário base + total de vendas * 15%
+salario liquido = salario base + total de vendas * 15%
 
-SAÍDA:
-salário líquido
+SAIDA:
+salario liquido
 */
 programa {
 	funcao inicio() {
@@ -27,7 +27,7 @@ programa {
 		//PROCESSAMENTO
 		salarioLiquido = salarioBase + totalVendas * 0.15
 		
-		//SAÍDA
+		//SAï¿½DA
 		escreva("TOTAL = R$ ", salarioLiquido)
 	}
 }

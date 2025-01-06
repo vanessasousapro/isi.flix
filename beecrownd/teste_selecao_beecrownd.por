@@ -1,5 +1,4 @@
-/*
-Exercicio BEECROWD 1035
+/*Exercicio BEECROWD 1035
 
 Leia 4 valores inteiros A, B, C e D. 
 

@@ -5,9 +5,9 @@ programa {
 	funcao inicio() {
 		inteiro x = 4
 		se(x >= 5 e x <= 10){
-		    escreva("O valor ", x, " está entre 5 e 10")
+		    escreva("O valor ", x, " esta entre 5 e 10")
 		}senao{
-		    escreva("O valor ", x, " não esta entre 5 e 10")
+		    escreva("O valor ", x, " nao esta entre 5 e 10")
 		}
 	}
 }
